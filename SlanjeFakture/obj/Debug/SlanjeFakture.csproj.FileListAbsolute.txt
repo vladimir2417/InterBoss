@@ -1,0 +1,729 @@
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\grpc_csharp_ext.x86.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\grpc_csharp_ext.x64.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\libgrpc_csharp_ext.x86.so
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\libgrpc_csharp_ext.x64.so
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\libgrpc_csharp_ext.x86.dylib
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\libgrpc_csharp_ext.x64.dylib
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\SlanjeFakture.exe.config
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\SlanjeFakture.exe
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\SlanjeFakture.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\netstandard.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.AppContext.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Collections.Concurrent.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Collections.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Collections.NonGeneric.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Collections.Specialized.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ComponentModel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ComponentModel.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Console.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Data.Common.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.Contracts.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.Debug.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.Process.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.Tools.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Diagnostics.Tracing.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Drawing.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Dynamic.Runtime.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Globalization.Calendars.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Globalization.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Globalization.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.Compression.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.FileSystem.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.IsolatedStorage.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.Pipes.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Linq.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Linq.Expressions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Linq.Parallel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Linq.Queryable.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Http.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.NameResolution.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.NetworkInformation.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Ping.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Requests.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Security.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.Sockets.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.WebSockets.Client.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Net.WebSockets.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ObjectModel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Reflection.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Reflection.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Reflection.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Resources.Reader.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Resources.ResourceManager.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Resources.Writer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Handles.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.InteropServices.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Numerics.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Claims.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.Principal.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Security.SecureString.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Text.Encoding.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Text.RegularExpressions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.Overlapped.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.Tasks.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.Thread.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.ThreadPool.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Threading.Timer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.ValueTuple.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.ReaderWriter.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.XDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.XmlDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.XmlSerializer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.XPath.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\BouncyCastle.Crypto.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\FontAwesome.WPF.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.Api.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\itextsharp.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\MaterialDesignColors.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Buffers.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Memory.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Numerics.Vectors.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\FontAwesome.WPF.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.Api.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\Grpc.Core.Api.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\itextsharp.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\MaterialDesignColors.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Buffers.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Memory.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Numerics.Vectors.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.csprojAssemblyReference.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.exe.config
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\UlogujSe.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\App.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture_Content.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture_MarkupCompile.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture_MarkupCompile.lref
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\App.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\UlogujSe.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.g.resources
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.Properties.Resources.resources
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.csproj.GenerateResource.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.csproj.CoreCompileInputs.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.csproj.CopyComplete
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.exe
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\Login1\obj\Debug\SlanjeFakture.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\SlanjeFakture.exe.config
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\SlanjeFakture.exe
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\SlanjeFakture.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\netstandard.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.AppContext.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Collections.Concurrent.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Collections.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Collections.NonGeneric.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Collections.Specialized.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ComponentModel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ComponentModel.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Console.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Data.Common.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.Contracts.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.Debug.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.Process.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.Tools.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Diagnostics.Tracing.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Drawing.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Dynamic.Runtime.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Globalization.Calendars.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Globalization.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Globalization.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.Compression.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.FileSystem.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.IsolatedStorage.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.Pipes.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Linq.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Linq.Expressions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Linq.Parallel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Linq.Queryable.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Http.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.NameResolution.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.NetworkInformation.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Ping.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Requests.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Security.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.Sockets.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.WebSockets.Client.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Net.WebSockets.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ObjectModel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Reflection.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Reflection.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Reflection.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Resources.Reader.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Resources.ResourceManager.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Resources.Writer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Handles.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Numerics.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Claims.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.Principal.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Security.SecureString.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Text.Encoding.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Text.RegularExpressions.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.Overlapped.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.Tasks.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.Thread.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.ThreadPool.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Threading.Timer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.ValueTuple.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.ReaderWriter.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.XDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.XmlDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.XmlSerializer.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.XPath.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\BouncyCastle.Crypto.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\FontAwesome.WPF.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\itextsharp.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\MaterialDesignColors.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Buffers.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Memory.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Numerics.Vectors.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\FontAwesome.WPF.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\itextsharp.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\MaterialDesignColors.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Buffers.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Memory.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Numerics.Vectors.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.csprojAssemblyReference.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.exe.config
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\UlogujSe.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\App.g.cs
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.lref
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\App.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\UlogujSe.baml
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.g.resources
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.Properties.Resources.resources
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.GenerateResource.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CoreCompileInputs.cache
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CopyComplete
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.exe
+D:\SUDOPER SLANJE FAKTURE\Sudo-per\SlanjeFakture\obj\Debug\SlanjeFakture.pdb
+D:\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe.config
+D:\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe
+D:\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.pdb
+D:\Slanje fakture\SlanjeFakture\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\netstandard.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.AppContext.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Concurrent.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.NonGeneric.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Specialized.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Console.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Data.Common.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Debug.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Process.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tools.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Drawing.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Dynamic.Runtime.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Calendars.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Extensions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Pipes.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Expressions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Parallel.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Queryable.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Http.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NameResolution.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NetworkInformation.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Ping.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Requests.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Security.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Sockets.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ObjectModel.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Extensions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Reader.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.ResourceManager.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Writer.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Extensions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Handles.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Numerics.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Claims.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Principal.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.SecureString.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.RegularExpressions.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Overlapped.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Thread.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.ThreadPool.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Timer.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.ValueTuple.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XDocument.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlDocument.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\BouncyCastle.Crypto.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.pdb
+D:\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.xml
+D:\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.AssemblyReference.cache
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe.config
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.cs
+D:\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.g.cs
+D:\Slanje fakture\SlanjeFakture\obj\Debug\App.g.cs
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.cache
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.lref
+D:\Slanje fakture\SlanjeFakture\obj\Debug\App.baml
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.baml
+D:\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.baml
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.resources
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.Properties.Resources.resources
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.GenerateResource.cache
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CoreCompileInputs.cache
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CopyComplete
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe
+D:\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.pdb
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe.config
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.pdb
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\netstandard.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.AppContext.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Concurrent.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.NonGeneric.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Specialized.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Console.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Data.Common.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Contracts.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Debug.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Process.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tools.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tracing.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Drawing.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Dynamic.Runtime.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Calendars.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.IsolatedStorage.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Pipes.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Expressions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Parallel.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Queryable.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Http.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NameResolution.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NetworkInformation.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Ping.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Requests.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Security.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Sockets.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.Client.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ObjectModel.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Reader.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.ResourceManager.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Writer.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Handles.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Numerics.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Claims.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Principal.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.SecureString.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.RegularExpressions.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Overlapped.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Thread.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.ThreadPool.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Timer.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.ValueTuple.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.ReaderWriter.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XDocument.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlDocument.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlSerializer.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\BouncyCastle.Crypto.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.pdb
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.AssemblyReference.cache
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe.config
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\App.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.cache
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.lref
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\App.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.resources
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.Properties.Resources.resources
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.GenerateResource.cache
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CoreCompileInputs.cache
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CopyComplete
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.pdb
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\Odabir.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\Odabir.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\Magacin.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\Magacin.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniArtikal.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniArtikal.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\SuperSocket.ClientEngine.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\bin\Debug\WebSocket4Net.dll
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UnesiNoviArtikal.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UnesiNoviArtikal.baml
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UveziExcel.g.cs
+D:\#PROJEKTI\SUDO-PER\Slanje fakture\SlanjeFakture\obj\Debug\UveziExcel.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe.config
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.exe
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\SlanjeFakture.pdb
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\netstandard.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.AppContext.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Concurrent.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.NonGeneric.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Collections.Specialized.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Console.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Data.Common.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Contracts.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Debug.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Process.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tools.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Diagnostics.Tracing.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Drawing.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Dynamic.Runtime.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Calendars.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Globalization.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.IsolatedStorage.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.Pipes.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Expressions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Parallel.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Linq.Queryable.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Http.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NameResolution.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.NetworkInformation.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Ping.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Requests.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Security.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.Sockets.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.Client.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Net.WebSockets.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ObjectModel.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Reflection.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Reader.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.ResourceManager.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Resources.Writer.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Handles.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Numerics.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Claims.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.Principal.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Security.SecureString.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Text.RegularExpressions.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Overlapped.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Thread.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.ThreadPool.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Threading.Timer.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.ValueTuple.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.ReaderWriter.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XDocument.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlDocument.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XmlSerializer.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\BouncyCastle.Crypto.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\SuperSocket.ClientEngine.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\WebSocket4Net.dll
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\FontAwesome.WPF.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\itextsharp.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignColors.pdb
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Buffers.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Memory.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Numerics.Vectors.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe.config
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniArtikal.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UveziExcel.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Magacin.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Odabir.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiNoviArtikal.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\App.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.cache
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture_MarkupCompile.lref
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\App.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniArtikal.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UveziExcel.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Magacin.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Odabir.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UlogujSe.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiNoviArtikal.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.g.resources
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.Properties.Resources.resources
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.GenerateResource.cache
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CoreCompileInputs.cache
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.CopyComplete
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.exe
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.pdb
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Izvestaji.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Izvestaji.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\DetaljiFakture.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\DetaljiFakture.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\DodajArtikalUKalkulaciju.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\DodajArtikalUKalkulaciju.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiArtikalNaFakturu.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiArtikalNaFakturu.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije izvestaj.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije izvestaj.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Dobavljaci.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Dobavljaci.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniDobavljaca.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\IzmeniDobavljaca.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiDobavljaca.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\UnesiDobavljaca.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Artikli izvestaj.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Artikli izvestaj.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije izveštaj početna.g.cs
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\Kalkulacije izveštaj početna.baml
+D:\#PROJEKTI\SUDO-PER\InterBoss\Slanje fakture\SlanjeFakture\obj\Debug\SlanjeFakture.csproj.AssemblyReference.cache

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.25, 12.75" name="AppBaza">
+  <DataContextMoniker Name="/AppBazaDataContext" />
+  <nestedChildShapes>
+    <classShape Id="669c2148-21c4-4973-8f87-5a3624d7cbdf" absoluteBounds="6.25, 4.75, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/AppBazaDataContext/Artikal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2dcc7fcc-4f55-4336-be97-0178c373c044" absoluteBounds="6.265, 5.21, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8dd9c422-a8f3-41ee-98fb-18664064aebc" absoluteBounds="0.75, 4.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AppBazaDataContext/UnosUMagacin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a50c4029-a57f-4b74-a0aa-ad4df2dfd063" absoluteBounds="0.765, 5.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="115b9e1a-2254-4ebc-960e-e4db22f62ba9" absoluteBounds="0.75, 8.75, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/AppBazaDataContext/Dobavljac" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8042fff6-9800-4e51-95a4-8e8f5c9d8064" absoluteBounds="0.765, 9.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e7f47af2-1851-4b9e-8a2c-1f2bf72231e8" absoluteBounds="6.25, 1, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/AppBazaDataContext/Faktura" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c30e966-5c91-4de6-9d8c-e8a5ff97306a" absoluteBounds="6.265, 1.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8412bbc2-5dbd-43ea-b91b-ae844f1a3c08" absoluteBounds="9, 1.125, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AppBazaDataContext/FakturaStavka" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fc296126-bb6f-42f9-94dc-0b7b01849346" absoluteBounds="9.015, 1.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5968981f-665e-4d8c-83eb-88ec6666e754" absoluteBounds="8.75, 4.75, 2, 5.8092268880208326">
+      <DataClassMoniker Name="/AppBazaDataContext/Kalkulacija" />
+      <nestedChildShapes>
+        <elementListCompartment Id="654037e4-4be3-41a0-bb0d-3ecc1b3bf16d" absoluteBounds="8.765, 5.21, 1.9700000000000002, 5.249226888020833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32ea797f-95ae-4345-af22-bcb6be799705" absoluteBounds="3.75, 9.75, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/AppBazaDataContext/Kupac" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d3729521-408a-4d2f-8757-888ea73e5bc5" absoluteBounds="3.765, 10.21, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4adc1d09-57e0-4550-b0d5-1d3efff04eec" absoluteBounds="0.75, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AppBazaDataContext/Prodavac" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1e69ebf4-4513-4299-83b8-96222e2b08db" absoluteBounds="0.765, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a09bdc1-57da-45be-af56-dc8413a75c57" absoluteBounds="3.5, 1.125, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AppBazaDataContext/Prodavnica" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72ca97ed-f3bc-473f-8512-9301d5137c9e" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 4.75); (8.625 : 4.375); (8.625 : 2.39505126953125); (9 : 2.39505126953125)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AppBazaDataContext/Artikal/Artikal_FakturaStavka" />
+      <nodes>
+        <classShapeMoniker Id="669c2148-21c4-4973-8f87-5a3624d7cbdf" />
+        <classShapeMoniker Id="8412bbc2-5dbd-43ea-b91b-ae844f1a3c08" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.25 : 1.69752563476563); (9 : 1.69752563476563)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AppBazaDataContext/Faktura/Faktura_FakturaStavka" />
+      <nodes>
+        <classShapeMoniker Id="e7f47af2-1851-4b9e-8a2c-1f2bf72231e8" />
+        <classShapeMoniker Id="8412bbc2-5dbd-43ea-b91b-ae844f1a3c08" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.39505126953125); (6.25 : 2.39505126953125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AppBazaDataContext/Prodavnica/Prodavnica_Faktura" />
+      <nodes>
+        <classShapeMoniker Id="5a09bdc1-57da-45be-af56-dc8413a75c57" />
+        <classShapeMoniker Id="e7f47af2-1851-4b9e-8a2c-1f2bf72231e8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.41429768880208); (3.5 : 2.41429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AppBazaDataContext/Prodavac/Prodavac_Prodavnica" />
+      <nodes>
+        <classShapeMoniker Id="4adc1d09-57e0-4550-b0d5-1d3efff04eec" />
+        <classShapeMoniker Id="5a09bdc1-57da-45be-af56-dc8413a75c57" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

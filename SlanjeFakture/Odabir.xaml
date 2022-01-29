@@ -1,0 +1,18 @@
+﻿<Window x:Class="SlanjeFakture.Odabir"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SlanjeFakture"
+        mc:Ignorable="d"
+        Title="POČETNA STRANICA" Height="323.75" Width="608.983" IsTabStop="True" Topmost="True" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Magacin" Background="#494949" BorderBrush="#494949" HorizontalAlignment="Left" VerticalAlignment="Top" Width="137" Margin="25,25,0,0" Height="54" Click="Button_Click"/>
+        <Button Content="Kreiraj fakturu" Background="#494949" BorderBrush="#494949" HorizontalAlignment="Left" VerticalAlignment="Top" Width="137" Margin="229,25,0,0" Height="54" Click="Button_Click_1"/>
+        <Button Content="Narudžbenice izveštaji" HorizontalAlignment="Left" Background="#494949" BorderBrush="#494949" VerticalAlignment="Top" Width="188" Margin="389,112,0,0" Height="54" Click="Button_Click_2"/>
+        <Button Content="Kalkulacije" HorizontalAlignment="Left" Background="#494949" BorderBrush="#494949" VerticalAlignment="Top" Width="137" Margin="229,204,0,0" Height="54" Click="Button_Click_3" />
+        <Button Content="Kalkulacije izveštaj" HorizontalAlignment="Left" Background="#494949" BorderBrush="#494949" VerticalAlignment="Top" Width="176" Margin="25,112,0,0" Height="54" Click="Button_Click_4"  />
+        <Button Content="Dobavljači" Background="#494949" BorderBrush="#494949" HorizontalAlignment="Left" VerticalAlignment="Top" Width="137" Margin="440,25,0,0" Height="54" Click="Button_Click_5" />
+        <Button Content="Artikli izvestaj" HorizontalAlignment="Left" Background="#494949" BorderBrush="#494949" VerticalAlignment="Top" Width="137" Margin="229,112,0,0" Height="54" Click="Button_Click_6"   />
+    </Grid>
+</Window>
